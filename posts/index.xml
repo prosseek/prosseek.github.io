@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on My Awesome Blog</title><link>http://localhost:1313/posts/</link><description>Recent content in Posts on My Awesome Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 04 Jun 2024 10:00:00 -0700</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Welcome to My Blog</title><link>http://localhost:1313/posts/my-first-post/</link><pubDate>Tue, 04 Jun 2024 10:00:00 -0700</pubDate><guid>http://localhost:1313/posts/my-first-post/</guid><description>&lt;h1 id="hello-world">Hello World!&lt;/h1>
+&lt;p>This is my first blog post using Hugo.&lt;/p>
+&lt;h2 id="what-i-learned-today">What I learned today:&lt;/h2>
+&lt;ul>
+&lt;li>Hugo converts Markdown to HTML&lt;/li>
+&lt;li>Themes provide the design&lt;/li>
+&lt;li>The &lt;code>draft: false&lt;/code> makes posts visible&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>This text is bold&lt;/strong> and &lt;em>this is italic&lt;/em>.&lt;/p>
+&lt;p>Here&amp;rsquo;s a list:&lt;/p>
+&lt;ul>
+&lt;li>Item 1&lt;/li>
+&lt;li>Item 2&lt;/li>
+&lt;li>Item 3&lt;/li>
+&lt;/ul></description></item></channel></rss>
